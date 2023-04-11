@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my startup <br>👯 I’m looking to collaborate on Productivity software<br>🤝 I’m looking for collaborating with YouTubers (Coding tutorial) <br>🌱 I’m currently learning Bioinformatics<br>💬 Ask me about projects that I am working on<br>⚡ Fun fact - I drink more coffee than water
+🔭 I’m currently working on my startup <br>👯 I’m looking to collaborate on Productivity software<br>🤝 I’m looking for collaborating with YouTubers (Coding tutorial) <br>🌱 I’m currently learning Bioinformatics<br> ⚡ Fun fact - I drink more coffee than water
 
 
 # 💻 Tech Stack:
